@@ -77,14 +77,14 @@ export default class Master extends Component {
                   alt="Emery Muhozi"
                 />
                 <div className="social-icons">
-                  <a href="https://twitter.com/EmeryMuhozi" target="__blank">
+                  <a href="https://twitter.com/emeryquo" target="__blank">
                     <i className="icon ion-logo-twitter" />
                   </a>
                   <a href="https://github.com/muhozi" target="__blank">
                     <i className="icon ion-logo-github" />
                   </a>
                   <a
-                    href="https://www.linkedin.com/in/emerymuhozi"
+                    href="https://www.linkedin.com/in/muhozi"
                     target="__blank"
                   >
                     <i className="icon ion-logo-linkedin" />
